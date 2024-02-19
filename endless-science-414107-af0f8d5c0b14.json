@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "endless-science-414107",
+  "private_key_id": "af0f8d5c0b1469c1e5edac06f66f84d7dc8fa756",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDauiayl/QUIflt\nAiAHd2CTqAiQelz6uRUUuoYqKODHyPbg12IifcRrzpSSTs5f2JQuEnpcYCCM0UFE\ne6PWvfXHrXHmyZz2RQHUhxSfifMS9cSOeEAitcb5T1nsVDXe+eqKMfGUkMfdzdw6\n9SJXyDdGNyAkQnP1n7hWr3jzqoV1P9tGU4pXWwKcLhbgTjJkVeRYEDJoP+0+r62h\nrjQ7xuuV7/yioPOE/FbiLmgkFL4iw0+N7+brTjJbqXAeny4PZau0p42HFq+SEkmh\n0dkE0qzYdze82yVuQdclY1HJTY/10OiX1+4h7ZT/g/OHVvAUHyAtp4OfmRqkxMoD\nFxBJn4zzAgMBAAECggEABQxP7BuBeZ0IdFicw/Z1s5nTUo3epCiDYtHddw73IgVH\n6raKToDQzg5i1zbw2YRWdIFQcsGRNBXqgLY8BwQ0A6KK0TapVbxlUhWasem0mF37\n9Fq0lK3Vjzs/DbljYcsOJl8IDOHZNbaGQz6HHH7gIXxlxklZ5qzK6D8LaF4NQVzn\nx/4Pzu/L8PA2BXNizPFISEsbiKmcANlB4Gh0NlNtBCvZNtcrnhz4dhFCocalpxL3\nr6DStDokoCSd838CUnUu+1WX+o3BqwSPSMOAIyLSi2Euq6zkXGKrqW8SnVA2joV4\n3sNbuiGmXivIJu3bXEE6kn6vMprirGtPZkVXcs8rSQKBgQDxYM0lssijOErj37r1\nMY7BksXoUc34/0NWZd5fR7/GNkqolEoR2wbGdwD32J8TNattdTy1YzKQEB0tKf/G\ngDUwFouqcRfYixoqNmHQraxJ53wE7ODnCDbfCpb0WNeHzbKd7lEf7SuzLz6xmSg5\nuaqqsDbnio3MlBfGvdDc6GEr7QKBgQDn+hZTswZd/Kz4iV+AA+tRN4sMH+ruK9cS\nN6zS4l/U3ClVocQog0ocWCfirsy9dY3kGhSk4F6WfkNWIwqgf67p1+Ug8zZfcXui\noLGbApHDjIMFwnSC5dvfPq/FudnHmsVZr4ZFbPWzbogTTc6kZNlEZdoV7kpoJz7J\nWF45rElAXwKBgQCFaJk6Isxd2fkaZUexyUg7mOGle8E5w+v1zqvPQZqu9Mbi0cL2\nh3YBLzjrw2B4f4tWHhwFrOP/V8ioc7QYhDfhcjSTaZpiZs95UUFS0wqMdlLHbh0H\n1DRvpiy0tH27Y2c7fsJ7wNwMVypxglMHRKUdXfOamauxzJAvmi3cStuaKQKBgCje\nXHSeg66nR2n5+cM57Yk/edXHAcK4IonpGR+GFlAQAZA+kap5huL7fPtoxFVUkozv\nM1fg14k38XEJd2PTWuODz7BAaQHjol6CZQfkKf4DkUnAenpdOKFaD+mL1pxd3grw\n63zrt1XHUV3lRVSdF9H/B675bk5vK5aZZPBQNA+NAoGALzlOvyFth1u5SFwnQifg\nPAZqtXV0nci0Ikl9bgoD2XXoOEVxnbrWeKg5TW7h5EDyvTpWrmNA7dp4CgMWHUo6\nS3gd6mD7lg2nhd6KC1+5LTQG2/s6XDs5uMQ0JtVpL9l/gO/ztW9ZFwSczhcMwSZv\nF2HZN+mZdCO8IMGrSOsvbrE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "friendly-gemini@endless-science-414107.iam.gserviceaccount.com",
+  "client_id": "100914826026801237065",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/friendly-gemini%40endless-science-414107.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
