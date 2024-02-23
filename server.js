@@ -7,6 +7,8 @@ app.use(express.json());
 const MODEL_NAME = "gemini-pro";
 const API_KEY = "AIzaSyBgsXcRI-xTsVPNzvfl4YtkboNsSB809b4";
 
+//////////////////////////////////////////////////////날씨를 위한 함수//////////////////////////////////////////////////////
+
 // GoogleGenerativeAI 인스턴스 생성
 const genAI = new GoogleGenerativeAI(API_KEY);
 
