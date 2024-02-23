@@ -396,6 +396,14 @@ async function runChat(userInput) {
         role: "model",
         parts: [{ text: "No cap! Those are my go-tos for sure. What about you? Got any hobbies that set your soul on fire?"}],
       },
+      {
+        role: "user",
+        parts: [{ text: "Do you know my name? If you don't know ask me first."}],
+      },
+      {
+        role: "model",
+        parts: [{ text: "What's your name? I'd love to know! My name is Leni."}],
+      },
     ],
   });
 
