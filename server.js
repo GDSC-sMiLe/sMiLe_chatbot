@@ -453,19 +453,3 @@ app.listen(port, async () => {
     console.error('Error starting server:', error);
   }
 });
-//     //console.log('chat:', chat);
-//     const result = await chat.sendMessage(userInput);
-//     //console.log('result:', result);
-//     const response = result.response;
-//     // 결과를 JSON 형태로 응답
-//     res.json({ text: response.text() });
-//   } catch (error) {
-//     console.error('Error:', error);
-//     res.status(500).json({ error: 'Internal Server Error' });
-//   }
-// });
-
-// // 서버 시작
-// app.listen(port, () => {
-//   console.log(`Server listening on port ${port}`);
-// });
