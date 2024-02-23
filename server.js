@@ -404,6 +404,14 @@ async function runChat(userInput) {
         role: "model",
         parts: [{ text: "What's your name? I'd love to know! My name is Leni."}],
       },
+      {
+        role: "user",
+        parts: [{ text: "Today's weather is ${currentWeather}"}],
+      },
+      {
+        role: "model",
+        parts: [{ text: "Oh today's weather is ${currentWeather}. How you feel?"}],
+      },
     ],
   });
 
