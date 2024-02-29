@@ -5,7 +5,7 @@ const app = express();
 const port = process.env.PORT || 3000;
 app.use(express.json());
 const MODEL_NAME = "gemini-pro";
-const API_KEY = "AIzaSyBgsXcRI-xTsVPNzvfl4YtkboNsSB809b4";
+const API_KEY = "YOUR_API_KEY";
 
 // GoogleGenerativeAI 인스턴스 생성
 const genAI = new GoogleGenerativeAI(API_KEY);
